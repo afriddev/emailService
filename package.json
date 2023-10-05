@@ -10,6 +10,17 @@
     "run":"node core/index.js",
     "test": "node test/script.js"
   },
+  "engines": {
+    "node": ">= 12.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afriddev/emailservice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/afriddev/emailservice/issues"
+  },
+  "homepage": "https://github.com/afriddev/emailservice#readme",
   "keywords": [
     "emailservice",
     "email",
