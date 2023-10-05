@@ -1,0 +1,25 @@
+{
+  "name": "emailservice",
+  "version": "1.1.3",
+  "description": "This will help to you send email to target email with various options",
+  "main": "core/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "run":"node core/index.js",
+    "test": "node test/script.js"
+  },
+  "keywords": [
+    "emailservice",
+    "email",
+    "sendemail",
+    "emailotp",
+    "otp",
+    "send",
+    "verification",
+    "authentication"
+  ],
+  "author": "SHAIK AFRID",
+  "license": "ISC"
+}
