@@ -21,8 +21,8 @@ async function emailservice({
    * const variables for server URLS
    *
    */
-  const serverUrl = "https://emailSender.cyclic.cloud";
-  const sendMethodServerUrl = "https://emailSender.cyclic.cloud/sendEmail";
+  const serverUrl = "https://sendemail.cyclic.app";
+  const sendMethodServerUrl = "https://sendemail.cyclic.app/sendEmail";
 
   /**
    * @returns true when server is running
